@@ -79,7 +79,7 @@ tags:
   - dashbaord
   - meeting
 screenshots:
-  - https://imgur.com/ZzYL05x
+  - (https://i.ibb.co/kgsXZ2tQ/32bfce125e53.png)
 plugins:
   - id: datacore
     name: "Datacore"
@@ -190,7 +190,7 @@ Search, sort, and filter controls are accessible via toolbar buttons. All audio 
 
 ## Screenshots
 
-![Screenshot 1](https://imgur.com/ZzYL05x)
+![Screenshot 1](https://i.ibb.co/kgsXZ2tQ/32bfce125e53.png)
 ## Installation
 
 1. Download the `.md` file(s) from this repo
