@@ -86,8 +86,8 @@ Search, sort, and filter controls are accessible via toolbar buttons. All audio 
 
 ## Screenshots
 
-![Screenshot 1](<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/f8117bf1-696b-4fee-a190-9c0b2cb770d1" />
-)
+![Screenshot 1](https://i.ibb.co/kgsXZ2tQ/32bfce125e53.png)
+
 ## Installation
 
 1. Download the `.md` file(s) from this repo
